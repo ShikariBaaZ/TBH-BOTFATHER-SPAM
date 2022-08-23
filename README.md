@@ -25,10 +25,10 @@
 <a href="https://t.me/TBH_N3TWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[𝑯𝑬𝑳𝑳𝑩𝑶𝒀](https://t.me/ITS_HELLL_BOYYY)
+## Oᴡɴᴇʀ -[SHIKARI] : Dev
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Popay-ckl/TBH-BOTFATHER-SPAM.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/TBH-BOTFATHER-SPAM.git)
 ------------------------------------------------
 
